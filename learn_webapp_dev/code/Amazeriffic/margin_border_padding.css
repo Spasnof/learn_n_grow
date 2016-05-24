@@ -1,0 +1,98 @@
+/*body {
+	background: linen;
+	width: 700px;
+	margin: 200px auto;
+	object-fit: all;
+}
+
+div {
+	border: 5px solid maroon;
+	text-align: top;
+	padding: 20px;
+	object-fit: all;
+}
+
+p {
+	border: 5px dashed blue;
+	object-fit: all;
+}*/
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+nav{
+	background: darkgrey;
+	float: left;
+}
+
+main {
+
+	background: lightgrey;
+	font-family: 'Indie Flower', cursive;
+}
+
+footer {
+	clear: left;
+	background: grey;
+	float: ;
+}
+
+/*
+p.content {
+	margin: 0;
+}
+h1 {
+	background: black;
+	color: white;
+
+}
+
+ol{
+	border:  5px solid darksalmon;
+	border-radius 10px;
+}
+
+a{
+	color: cornflowerblue;
+	 
+}
+
+span.number {
+	color: brown;
+}
+a:hover {
+	text-decoration: underline;
+	text-decoration-style: solid;
+}
+a:visited {
+	color:tomato;
+}
+
+a:hover {
+	text-decoration: underline;
+	text-decoration-style: solid;
+}
+
+
+p {
+	color: blue;
+	margin: 10px;
+	padding: 20px;
+}
+
+p.first {
+	color: red;
+	margin: 10px;
+	padding: 20px;
+}
+
+
+
+p.second {
+	color: purple;
+	margin: 10px;
+	padding: 20px;
+}*/

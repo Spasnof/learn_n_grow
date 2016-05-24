@@ -1,0 +1,23 @@
+body {
+	background: white ;
+	width: 800px;
+	margin: auto;
+}
+
+h1 {
+	color: #669999;
+	text-align: center;
+}
+
+div {
+	border: 5px solid maroon;
+	text-align: center;
+	padding: 5px;
+	
+}
+
+p {
+		border: 2px dashed blue;
+		color: #407F7F
+		padding: 10px;
+		}
