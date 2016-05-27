@@ -1,0 +1,57 @@
+body {
+    background: #f9e933;
+}
+
+header,  main, footer {
+    min-width: 855px;
+}
+
+header .container, main .container, footer .container {
+    max-width: 855px;
+    margin: auto;
+}
+
+header {
+    background: white;
+    overflow: auto;
+}
+
+header h1{
+     width: 570px;
+     float: left;
+}
+
+header nav{
+    width: 285px;
+    float: right;
+}
+
+main {
+    background: white;
+    overflow: auto;
+}
+
+main .left{
+     width: 570px;
+     float: left;
+}
+
+main .right{
+    width: 285px;
+    float: right;
+}
+
+footer {
+    overflow: auto;
+}
+
+footer .left{
+     width: 570px;
+     float: left; 
+}
+
+footer .sightmap{
+    width: 285px;
+    float: right;  
+}
+
