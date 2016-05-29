@@ -1,5 +1,6 @@
 body {
     background: #f9e933;
+    font-family: 'Droid Sans', sans-serif;
 }
 
 header,  main, footer {
@@ -12,18 +13,21 @@ header .container, main .container, footer .container {
 }
 
 header {
-    background: white;
+    background: FFE183;
     overflow: auto;
+    min-height: 100px;
 }
 
 header h1{
      width: 570px;
      float: left;
+     padding-top:25px;
 }
 
 header nav{
     width: 285px;
     float: right;
+    color: #AC8301;
 }
 
 main {
@@ -55,3 +59,40 @@ footer .sightmap{
     float: right;  
 }
 
+h1
+{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 48px;
+    color: #AC8301;
+    font-style: italic;
+}
+
+h2
+{
+    font-size: 32px;
+    border:25px;
+         padding-top:25px;
+}
+
+h3
+{
+    font-size: 24px;
+    border:14px;
+    padding-top:25px;
+}
+
+h3
+{
+    font-size: 24px;
+    border:14px;
+    padding-top:25px;
+}
+p{
+    padding-top:10px;
+}
+
+h5
+{
+    font-size: 24px;
+    border:14px;
+}
