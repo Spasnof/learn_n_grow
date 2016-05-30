@@ -28,15 +28,16 @@ header nav{
     width: 285px;
     float: right;
     color: #AC8301;
+    padding-top: 10px;
 }
 
 main {
     background: white;
-    overflow: auto;
+    overflow: hidden;
 }
 
 main .left{
-     width: 570px;
+     width: 525px;
      float: left;
 }
 
@@ -47,6 +48,8 @@ main .right{
 
 footer {
     overflow: auto;
+    padding-top:25px;
+    padding-bottom:25px;
 }
 
 footer .left{
@@ -57,6 +60,14 @@ footer .left{
 footer .sightmap{
     width: 285px;
     float: right;  
+}
+
+footer .smleft {
+    float:left;
+}
+
+footer .smright {
+    float:right;
 }
 
 h1
@@ -71,13 +82,6 @@ h2
 {
     font-size: 32px;
     border:25px;
-         padding-top:25px;
-}
-
-h3
-{
-    font-size: 24px;
-    border:14px;
     padding-top:25px;
 }
 
@@ -87,7 +91,14 @@ h3
     border:14px;
     padding-top:25px;
 }
-p{
+
+h3
+{
+    font-size: 24px;
+    border:14px;
+    padding-top:25px;
+}
+p, ul{
     padding-top:10px;
 }
 
@@ -95,4 +106,15 @@ h5
 {
     font-size: 24px;
     border:14px;
+    
+}
+
+i{
+    font-style: italic;
+    color: #AC8301;
+}
+
+nav
+{
+    border: 10px
 }
