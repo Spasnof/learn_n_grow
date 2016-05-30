@@ -1,0 +1,14 @@
+/*
+    Document   : learn_n_grow/learn_webapp_dev/code/chapter3/style.css
+    Created on : 2016-05-30 05:21 PM
+    Author     : Spasnof
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+    background: #f5f5f5;
+}
