@@ -11,4 +11,36 @@
     margin: 0px;
     padding: 0px;
     background: #f5f5f5;
+    font-family: 'Fjalla One', sans-serif;
+    overflow: auto;
+}
+
+body{
+    max-width: 800;
+}
+
+header {
+    max-width:600px
+}
+
+header h1{
+    float: right;
+    font-size: 36px;
+    font-style: bold;
+    max-width: 600px;
+    padding-bottom:10px;
+}
+
+main {
+     padding-top:25px;
+    float:middle;
+    max-width: 600px;
+}
+
+p {
+   padding:10px 
+}
+
+footer p {
+    float:center;
 }

@@ -1,0 +1,8 @@
+package foo;
+
+import "Shared.proto";
+
+message HelloWorld{
+	required string openline = 1;
+	required Shared.name n = 2;
+}

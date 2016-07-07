@@ -1,0 +1,5 @@
+message name {
+  required string first = 1;
+  required string last = 2;
+}
+
