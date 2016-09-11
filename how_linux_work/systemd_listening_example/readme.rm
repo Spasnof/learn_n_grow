@@ -1,0 +1,4 @@
+To work files must be under /etc/systemd/system/
+To start: systemctl start echo.socket
+To test: telnet localhost 22222 type stuff and it will be repeated
+To stop: systemctl stop echo.socket
